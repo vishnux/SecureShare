@@ -28,7 +28,7 @@ To set up SecureShare, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/SecureShare.git
+git clone https://github.com/vishnux/SecureShare.git
 ```
 2. Navigate to the project directory:
 ```
