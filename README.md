@@ -3,6 +3,9 @@
 SecureShare demonstrates the implementation of federated learning for sentiment analysis. Federated learning is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples without exchanging them. This approach addresses critical issues in traditional centralized machine learning, such as data privacy, security, access rights, and access to heterogeneous data.
 
 ![model_convergence_image](public/images/model_convergence.png)
+![communication efficiency_image](public/images/communication_efficiency.png)
+![performance comparison_image](public/images/performance_comparison.png)
+![data heterogeneity_image](public/images/data_heterogeneity.png)
 
 SecureShare showcases:
 1. Privacy preservation through local data processing
